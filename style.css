@@ -1,0 +1,27 @@
+.container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 50% 50%;
+}
+
+body { margin: 100px;
+    background-color: rgb(222, 191, 180);
+    text-align:left;
+
+}
+#image {
+    border: 5px solid orange;
+    border-radius: 20%;
+    padding: 50px;
+    margin-bottom: 50px;
+}
+h1,h2{
+    font-family: Times New Roman; 
+
+}
+a {
+    font-size: large;
+}
+li{
+    color:rgb(145, 62, 62) ;
+}
